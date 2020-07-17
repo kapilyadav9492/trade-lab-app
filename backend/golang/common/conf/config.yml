@@ -1,0 +1,6 @@
+# Server configurations
+server:
+  host: "localhost"
+  port: 9092
+  serverAddress: "127.0.0.1:9092"
+
